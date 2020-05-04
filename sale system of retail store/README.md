@@ -1,4 +1,4 @@
-# CSCI4448/5448 --- OOAD ---- Project 3
+# Sale System of Retail Store Project
 
 Date: 10/18/2019
 
@@ -18,7 +18,6 @@ The output is in file: project3.out.txt.
 
 ## PDF file
 
-OOAD_Project3.pdf is the complete version of the required PDF file.
 
 project3_UML_class_diagram.pdf is an extra copy of the UML class diagram attached at the end of the complete PDF file. It is provided for your convenience.
 
